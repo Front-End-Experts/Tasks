@@ -1,0 +1,3 @@
+Create a paragraph (hint: <p></p>) and write content inside (at least 10 lines). Then beteween line 3 and 4 add a line break (hint: an empty tag we discussed in our lecture..).
+Add a div tag below the p tag and add an ordered supermarket list (hint: we used unordered list ul, so which tag is the ordered list?)
+color the ordered list with color of your choice but each item a different color (hint: use span tag)
