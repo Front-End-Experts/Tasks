@@ -17,4 +17,6 @@ You have the following HTML code:
   d) Adjust the spacing, padding, and margin as needed to make the menu visually appealing (which selector??)
   e) Add styles to an element that comes immediately after another element (combination selector)
   f) Style elements that are descendants of another element (descedent selector - e.g.: style links within the menu items)  
-  g) Style elements that are direct children of another element (child selector - e.g.: style only the top-level menu items, not nested sub-menus. hint: <)
+  g) Style elements that are direct children of another element (child selector - e.g.: style only the top-level menu items, not nested sub-menus)
+
+*** Documentation mandatory in both files(HTML, CSS)
