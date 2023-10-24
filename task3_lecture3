@@ -1,0 +1,4 @@
+Media Queries and Bootstrap
+
+Task: Build a responsive webpage for a fictional restaurant. Utilize Bootstrap's grid system to create a header with a navigation bar, a featured menu section,
+and contact information. Implement media queries to adjust the layout and styling for various screen sizes, such as mobile, tablet, and desktop.
