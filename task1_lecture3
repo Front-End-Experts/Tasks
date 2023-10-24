@@ -1,0 +1,3 @@
+CSS Transitions and Pseudo-classes
+
+Task: Create a simple navigation menu. When a user hovers over each menu item, apply a smooth transition effect, such as a color change or scaling, using CSS transitions. Additionally, use pseudo-classes like :hover and :active to enhance the interactive experience.
