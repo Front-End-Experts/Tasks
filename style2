@@ -1,0 +1,32 @@
+/* Add responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .product-card {
+        margin: 5px;
+    }
+}
+
+/* Custom styles for the header */
+header {
+    background-color: $secondary-color;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Flexbox styles for product cards grid */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .col-md-4 {
+        flex: 1 0 calc(33.333% - 20px); // Adjust the width as needed
+    }
+}
+// The "display: flex" property is added to the .product-card class to arrange the content inside each card vertically.
+// Flex properties are used to control the spacing and alignment of elements within each card.
+// For the product card grid, Flexbox is applied to the .row class, which allows for a responsive and centered display of product cards.
