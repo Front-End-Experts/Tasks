@@ -1,0 +1,31 @@
+/* Define variables for reusability */
+$primary-color: #007BFF;
+$secondary-color: #FF6B6B;
+
+/* Apply styles to product cards */
+.product-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    transition: background-color 0.3s;
+    text-align: center;
+
+    img {
+        max-width: 100%;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+        color: $primary-color;
+    }
+
+    p {
+        font-size: 0.9rem;
+        color: #777;
+    }
+
+    &:hover {
+        background-color: #f0f0f0;
+        box-shadow: 0 0 10px rgba($primary-color, 0.5);
+    }
+}
