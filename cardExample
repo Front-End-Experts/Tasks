@@ -1,0 +1,8 @@
+<div class="card mb-4">
+                        <img src="https://via.placeholder.com/200x150" class="card-img-top" alt="News Article 1">
+                        <div class="card-body">
+                            <h3 class="card-title">News Article 1</h3>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            <a href="news.html" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
